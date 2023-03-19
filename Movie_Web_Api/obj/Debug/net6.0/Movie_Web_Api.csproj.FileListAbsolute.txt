@@ -1,0 +1,297 @@
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.Development.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.exe
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.deps.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.runtimeconfig.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.pdb
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Core.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Identity.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Humanizer.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.CodeDom.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Memory.Data.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Json.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.AssemblyReference.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfoInputs.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfo.cs
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CoreCompileInputs.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\scopedcss\bundle\Movie_Web_Api.styles.css
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CopyComplete
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\refint\Movie_Web_Api.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.pdb
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.genruntimeconfig.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\ref\Movie_Web_Api.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.staticwebassets.runtime.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\libman.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\libman.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.staticwebassets.runtime.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.exe
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.deps.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.runtimeconfig.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.pdb
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Core.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Humanizer.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.CodeDom.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.AssemblyReference.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfoInputs.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfo.cs
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CoreCompileInputs.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.Movie_Web_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie_Web_Api.props
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie_Web_Api.props
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie_Web_Api.props
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\scopedcss\bundle\Movie_Web_Api.styles.css
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CopyComplete
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\refint\Movie_Web_Api.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.pdb
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.genruntimeconfig.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\ref\Movie_Web_Api.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\libman.json
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.json
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.staticwebassets.runtime.json
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.exe
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.deps.json
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.runtimeconfig.json
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.pdb
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Core.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Humanizer.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.CodeDom.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.AssemblyReference.cache
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfoInputs.cache
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfo.cs
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CoreCompileInputs.cache
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.Movie_Web_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie_Web_Api.props
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie_Web_Api.props
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie_Web_Api.props
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\scopedcss\bundle\Movie_Web_Api.styles.css
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CopyComplete
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\refint\Movie_Web_Api.dll
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.pdb
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.genruntimeconfig.cache
+D:\Download\Movie_Web_Api\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\ref\Movie_Web_Api.dll

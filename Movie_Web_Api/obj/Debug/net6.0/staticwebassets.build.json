@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GTl3D6v7Jc4szCVZxwOZ+yBvA+KjTdRzBiAXEcpfZps=",
+  "Hash": "p3vUAw+mQq3KuAN1lcPnyUdH3vSAh9333fZd5RA/E0c=",
   "Source": "Movie_Web_Api",
   "BasePath": "_content/Movie_Web_Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Movie_Web_Api\\wwwroot",
       "Source": "Movie_Web_Api",
-      "ContentRoot": "D:\\Download\\Movie_Web_Api\\Movie_Web_Api\\Movie_Web_Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\riham\\Source\\Repos\\WEB-API-test\\Movie_Web_Api\\wwwroot\\",
       "BasePath": "_content/Movie_Web_Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Download\\Movie_Web_Api\\Movie_Web_Api\\Movie_Web_Api\\wwwroot\\Images\\pexels-aleksandar-pasaric-2603464.jpg",
+      "Identity": "C:\\Users\\riham\\Source\\Repos\\WEB-API-test\\Movie_Web_Api\\wwwroot\\Images\\pexels-aleksandar-pasaric-2603464.jpg",
       "SourceId": "Movie_Web_Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Download\\Movie_Web_Api\\Movie_Web_Api\\Movie_Web_Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\riham\\Source\\Repos\\WEB-API-test\\Movie_Web_Api\\wwwroot\\",
       "BasePath": "_content/Movie_Web_Api",
       "RelativePath": "Images/pexels-aleksandar-pasaric-2603464.jpg",
       "AssetKind": "All",

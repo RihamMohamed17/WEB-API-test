@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i3zbtUpij5lGDvt1KlEHlPR3NFZ1+JFCYsK9YIGW6i4q8PmhZ0+EmwvWCpMG5sfPWcMiSt4cnfIEs+8RZo/m6A==",
+  "dgSpecHash": "OdDgHouvUPlQR829HTBtvDOlIcUbjcYlZlkNQfKkpwGRKK0EJJPWdvv6/vsznAuNUM5WzxmHtP1wzjAte+ixBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\riham\\Desktop\\Movie_Web_Api\\Movie_Web_Api\\Movie_Web_Api.csproj",
+  "projectFilePath": "C:\\Users\\riham\\Source\\Repos\\WEB-API-test\\Movie_Web_Api\\Movie_Web_Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riham\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\riham\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

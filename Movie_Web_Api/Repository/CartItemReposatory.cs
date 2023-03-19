@@ -17,10 +17,6 @@ namespace Movie_Web_Api.Repository
         {
             return _db.CartItems.Any(e => e.CartItemId == id);
         }
-        public List<CartItem> GetShoppingCartItems()
-        {
-            return CartItems ?? (ShoppingCartItems = _context.ShoppingCartItems.Where(n => n.ShoppingCartId == ShoppingCartId).Include(n => n.Movie).ToList());
-        }
 
         public async Task<CartItem> GetDbItem(CartItemRequestDTO cartItem)
         {

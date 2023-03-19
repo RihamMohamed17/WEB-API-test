@@ -29,11 +29,9 @@ namespace Movie_Web_Api
             builder.Services.AddSwaggerGen();
             builder.Services.Configure<JWT>(builder.Configuration.GetSection("JWT"));
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
-
             builder.Services.AddScoped<IAuthRepository, AuthRepository>();
-
             builder.Services.AddScoped<IMovieRepository, MovieRepository>();
-
+            builder.Services.AddScoped<IOrderRepository, OrderRepository>();
             builder.Services.AddScoped<IActorReposatory, ActorReposatory>();
             builder.Services.AddScoped<ICinamasReprosatory, CinamasReprosatory>();
             builder.Services.AddScoped<IProducersRepository, ProducersRepository>();

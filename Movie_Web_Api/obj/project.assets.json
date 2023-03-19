@@ -4152,11 +4152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\riham\\Desktop\\Movie_Web_Api\\Movie_Web_Api\\Movie_Web_Api.csproj",
+      "projectUniqueName": "C:\\Users\\riham\\Source\\Repos\\WEB-API-test\\Movie_Web_Api\\Movie_Web_Api.csproj",
       "projectName": "Movie_Web_Api",
-      "projectPath": "C:\\Users\\riham\\Desktop\\Movie_Web_Api\\Movie_Web_Api\\Movie_Web_Api.csproj",
+      "projectPath": "C:\\Users\\riham\\Source\\Repos\\WEB-API-test\\Movie_Web_Api\\Movie_Web_Api.csproj",
       "packagesPath": "C:\\Users\\riham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\riham\\Desktop\\Movie_Web_Api\\Movie_Web_Api\\obj\\",
+      "outputPath": "C:\\Users\\riham\\Source\\Repos\\WEB-API-test\\Movie_Web_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
